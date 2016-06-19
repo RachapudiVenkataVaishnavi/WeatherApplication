@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="mainactivity_text">There are no cities to display. Add using the ADD CITY
+        button from the options menu</string>
+
+    <string name="addNotes">Enter Note between 1 and 30 characters</string>
+    <string name="title_activity_note">NoteActivity</string>
+</resources>

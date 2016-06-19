@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="1"
+        android:title="Add City"/>
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="2"
+        android:title="Clear Saved City"/>
+    <item
+        android:id="@+id/action_view"
+        android:orderInCategory="3"
+        android:title="View Notes"/>
+</menu>
